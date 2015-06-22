@@ -4,7 +4,7 @@ using System.Collections;
 [RequireComponent (typeof(Rigidbody))]
 public class SpinRite : MonoBehaviour {
 	// __ prefix = order 2 tensor. _ = order 1. no underscore = scalar.
-	private Matrix4x4 __localI; 
+	private Matrix4x4 __localI; // Introduced in “Newton’s Laws Of Rotation”
 	private Vector3 _globalL;
 
 	private Rigidbody rigidBody;
