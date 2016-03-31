@@ -7,7 +7,7 @@ In this section our students learn...
 + About the Inertia Tensor.
 + How to model unstable rotation.
 
-Watch me write this code as part of my popular Udemy course. This link will give you a decent GitHub discount: https://www.udemy.com/gamephysics/?couponCode=GitHubSpecial
+Watch me write this code as part of my popular Udemy course. This link will give you a decent GitHub discount: https://www.udemy.com/gamephysics/?couponCode=GitHubDiscount
 
 Enjoy
 
