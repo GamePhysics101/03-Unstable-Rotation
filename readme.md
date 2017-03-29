@@ -67,5 +67,4 @@
 ### Section 3 Wrap-Up ###
 
 ---
-Find out more about our[Game Physics Course](https://www.udemy.com/gamephysics/?couponCode=GitHubDiscount).
- 
+Find out more about our [Game Physics Course](https://www.udemy.com/gamephysics/?couponCode=GitHubDiscount).
